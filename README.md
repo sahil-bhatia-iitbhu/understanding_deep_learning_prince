@@ -1,2 +1,5 @@
-# understanding_deep_learning_prince
-The repository includes the link to chapter-wise summary of the Understanding Deep Learning book by J.D.Prince 
+# Understanding Deep Learning - J.D.Prince (May 2025 Edition)
+The repository includes the link to chapter-wise summary of the Understanding Deep Learning book by J.D.Prince
+
+Link to book version used : https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf
+Link to Notion Book Summary : https://sahil-bhatia-iitbhu.notion.site/Understanding-Deep-Learning-Prince-270601ee8073805199dcc39e91879b1b?pvs=143
